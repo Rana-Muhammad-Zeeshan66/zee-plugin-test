@@ -1,0 +1,9 @@
+{
+  "generators": {
+    "simple-world": {
+      "factory": "./src/generators/simple-world/generator",
+      "schema": "./src/generators/simple-world/schema.json",
+      "description": "simple-world generator"
+    }
+  }
+}
